@@ -1,16 +1,18 @@
-# task4
+# Yum Bites
 
-A new Flutter project.
+Yum Bites is a user-friendly food delivery app that brings delicious meals right to your doorstep. Designed to make food ordering quick and hassle-free, Yum Bites offers intuitive navigation and essential features to enhance the user experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Splash Page**: A visually appealing introduction to the app, setting the tone for a seamless user experience.
+- **Home Page**: Explore a variety of food options and browse through different restaurants.
+- **Like Page**: Save your favorite dishes or restaurants for easy access in the future.
+- **Cart Page**: Manage and review your selected items before completing your order.
+- **History Page**: Keep track of your past orders for quick reordering and reference.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: For building a cross-platform mobile application.
+- **Dart**: As the programming language for app development.
+- **State Management**: Efficiently handles user interactions and app updates.
+- **JSON**: Used for managing and retrieving menu and order data.
