@@ -17,12 +17,13 @@ Yum Bites is a user-friendly food delivery app that brings delicious meals right
 - **State Management**: Efficiently handles user interactions and app updates.
 - **JSON**: Used for managing and retrieving menu and order data.
 - 
-##License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+- **This project is licensed under the MIT License.**
+- **See the LICENSE file for details.**
 
-Contact
-For questions or feedback, please contact:
+# Contact
+- For questions or feedback, please contact:
 
-# Developer: Ahmed Yehia
-Email:Ahmed.y16@hotmail.com
-Location: Cairo, Egypt
+- Developer: Ahmed Yehia
+- Email:Ahmed.y16@hotmail.com
+- Location: Cairo, Egypt
